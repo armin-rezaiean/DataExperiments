@@ -1,2 +1,2 @@
 # DataExperiments
-Sandbox for my data analysis hobby work. Will populate with R files used to filter and synthesize data that I find neat and with which I decide to play around.
+Sandbox for my data analysis hobby work and associated files. I've so far played around with stock market, general economic, and tennis data.
