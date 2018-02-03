@@ -6,7 +6,6 @@ library(lubridate)
 
 #Getting data from csv and removing row of current day unformatted data
 all_content = readLines("MSFTHistorical10YearsQuotes.csv")
-#skip_second = all_content[-2]
 dat = read.csv(textConnection(skip_second), header = TRUE, stringsAsFactors = FALSE)
 
 #Extracting year from date and adding new column
